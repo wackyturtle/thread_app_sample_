@@ -7,7 +7,7 @@ import 'package:timeago/timeago.dart' as timeago;
 void main() {
   runApp(const MyApp());
 }
-
+//이것은 주석입니다아~~~
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
